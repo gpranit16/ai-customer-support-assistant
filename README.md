@@ -67,20 +67,15 @@ Escalation status: No escalation triggers detected.
 Recommended next action: Provide additional information about Botox services.
 ```
 
-### 📷 Screenshot placeholders (add your images here)
-Each placeholder below includes a short description and a suggested file path. Replace the image files with your actual screenshots.
+### FAQ + Conversation Summary Workflow
+![FAQ and Summary Demo](assests/faq_summmary.png)
 
-- **FAQ response screenshot** — shows SOP-grounded answer from the FAQ agent.
-      ![FAQ response screenshot](assets/screenshots/faq-response.png)
+*Shows the SOP-grounded FAQ response alongside the structured conversation summary output for a complete end-to-end demo.*
 
-- **Escalation detection screenshot** — shows escalation check output and reason.
-      ![Escalation detection screenshot](assets/screenshots/escalation-detection.png)
+### Conversation Logging System
+![Logs Demo](assests/logs.png)
 
-- **Conversation summary screenshot** — shows the structured summary output.
-      ![Conversation summary screenshot](assets/screenshots/conversation-summary.png)
-
-- **Conversation logs screenshot** — shows the saved log entry in `logs/conversations.txt`.
-      ![Conversation logs screenshot](assets/screenshots/conversation-logs.png)
+*Shows the persisted conversation entry inside `logs/conversations.txt`, including timestamp, user input, AI response, and escalation reason.*
 
 ---
 
