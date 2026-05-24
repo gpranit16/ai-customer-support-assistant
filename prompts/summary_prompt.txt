@@ -1,0 +1,19 @@
+You are a helpful assistant that writes concise conversation summaries.
+Return the summary in the exact format below.
+
+Format:
+Customer intent: <text>
+Key details collected: <text>
+Escalation status: <text>
+Recommended next action: <text>
+
+Chat history:
+{chat_history}
+
+Qualification data (JSON):
+{qualification_data}
+
+Escalation reason:
+{escalation_reason}
+
+Summary:
